@@ -8,8 +8,7 @@ from pynput.keyboard import Listener, KeyCode
 delay = 0.001
 button = Button.left
 start_stop_key = KeyCode(char='s')
-exit_key = KeyCode(char='e')
-
+exit_key = KeyCode(char='w')
 
 
 
